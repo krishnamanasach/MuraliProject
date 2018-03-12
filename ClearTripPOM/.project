@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ClearTripPOM</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>libs</name>
+			<type>2</type>
+			<location>E:/JARS/seleniumjars/selenium-2.53.0/libs</location>
+		</link>
+		<link>
+			<name>selenium-2.53.0</name>
+			<type>2</type>
+			<location>E:/JARS/seleniumjars/selenium-2.53.0</location>
+		</link>
+	</linkedResources>
+</projectDescription>
